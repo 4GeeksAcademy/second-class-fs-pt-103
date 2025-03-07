@@ -1,0 +1,64 @@
+.nav-title {
+    color: blueviolet
+}
+
+.list-item {
+    font-weight: 400;
+    color: grey;
+    list-style-type: square;
+}
+
+.background-red {
+    background-color: red;
+}
+
+.title {
+    color: white;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.box {
+    height: 100%;
+}
+
+.wrapper {
+    position: relative;
+    top: 56px;
+}
+
+.img-carousel {
+    max-height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title-1 {
+    color: blue
+}
